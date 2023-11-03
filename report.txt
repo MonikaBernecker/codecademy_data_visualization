@@ -1,0 +1,20 @@
+
+#Scatter Plot of GDP vs. Life Expectancy:
+There seems to be a general trend where countries with higher GDPs tend to have a higher life expectancy. This is evident in the scatter plot.
+Zimbabwe stands out with a significantly lower GDP and life expectancy than the other countries.
+The USA, Germany, and China have the highest GDPs with the USA leading. Among these, Germany has the highest life expectancy, followed closely by the USA, and then China.
+
+#Life Expectancy Distributions for Each Country:
++China: The life expectancy in China ranges from a little above 72 to slightly below 76, with a median life expectancy of approximately 74.26 years.
++Mexico: The life expectancy in Mexico has a wider distribution, ranging from slightly below 75 to a bit over 76.5 years, with a median of approximately 75.72 years.
++United States of America: The life expectancy in the USA has a distribution ranging from 77 to just under 79 years, with a median of approximately 78.06 years.
+
+#Average life expectancy for each country:
+Chile: 78.94 years
+China: 74.26 years
+Germany: 79.66 years (highest among the listed countries)
+Mexico: 75.72 years
+USA: 78.06 years
+Zimbabwe: 50.09 years (significantly lower than the others)
+
+From the data, one can infer that while GDP is generally correlated with life expectancy, it's not the only determining factor. Health infrastructure, policies, education, access to clean water and sanitation, lifestyle, and many other factors play a role in the life expectancy of a country's citizens. Zimbabwe's significantly lower life expectancy, despite having a GDP higher than some countries with a higher life expectancy, is a testament to this complexity.
